@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moabrar25
 - 👀 I’m interested in programming and all that stuff
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c++, python, Java and Javascript 
 - 📫 How to reach me - follow me of Instagram @moarx25
 
 <!---
